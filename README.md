@@ -23,8 +23,8 @@ Goal is to use IAM roles to access AWS resources from an application running on 
     "Code" : "Success",
     "LastUpdated" : "2012-04-26T16:39:16Z",
     "Type" : "AWS-HMAC",
-    "AccessKeyId" : "AKIAIOSFODNN7EXAMPLE",
-    "SecretAccessKey" : "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+    "AccessKeyId" : "<your-access-key>",
+    "SecretAccessKey" : "<your-secret>",
     "Token" : "token",
     "Expiration" : "2012-04-27T22:39:16Z"
   }
